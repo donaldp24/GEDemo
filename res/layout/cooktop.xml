@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  android:id="@+id/layout_cooktop"
+			  android:orientation="vertical"
+			  android:layout_width="1280px"
+			  android:layout_height="720px"
+			  android:background="@drawable/common_bg"
+		>
+	<ImageView
+			android:layout_marginLeft="33px"
+			android:layout_marginTop="362px"
+			android:layout_width="1213px"
+			android:layout_height="329px"
+			android:background="@drawable/refrigerator_focusbg"
+			/>
+	<ImageView
+			android:layout_marginLeft="66px"
+			android:layout_marginTop="48px"
+			android:layout_width="237px"
+			android:layout_height="115px"
+			android:background="@drawable/welcome_mark"
+			/>
+	<ImageView
+			android:layout_marginLeft="849px"
+			android:layout_marginTop="38px"
+			android:layout_width="124px"
+			android:layout_height="125px"
+			android:background="@drawable/welcome_appmark"
+			/>
+	<ImageView
+			android:layout_marginLeft="1006px"
+			android:layout_marginTop="82px"
+			android:layout_width="194px"
+			android:layout_height="46px"
+			android:background="@drawable/welcome_application"
+			/>
+	<ImageView
+			android:layout_marginLeft="337px"
+			android:layout_marginTop="214px"
+			android:layout_width="577px"
+			android:layout_height="84px"
+			android:background="@drawable/cooktop_title"
+			/>
+
+	<!-- buttons -->
+	<Button
+			android:id="@+id/btn_works"
+			android:layout_marginLeft="255px"
+			android:layout_marginTop="440px"
+			android:layout_width="192px"
+			android:layout_height="169px"
+			android:background="@drawable/cooktop_btn_works"
+			/>
+
+	<Button
+			android:id="@+id/btn_cooking"
+			android:layout_marginLeft="543px"
+			android:layout_marginTop="440px"
+			android:layout_width="192px"
+			android:layout_height="169px"
+			android:background="@drawable/cooktop_btn_cooking"
+			/>
+
+	<Button
+			android:id="@+id/btn_response"
+			android:layout_marginLeft="823px"
+			android:layout_marginTop="440px"
+			android:layout_width="192px"
+			android:layout_height="169px"
+			android:background="@drawable/cooktop_btn_response"
+			/>
+
+	<ImageView
+			android:layout_marginLeft="234px"
+			android:layout_marginTop="606px"
+			android:layout_width="762px"
+			android:layout_height="57px"
+			android:background="@drawable/cooktop_exps"
+			/>
+
+	<Button
+			android:id="@+id/btn_back"
+			android:layout_marginLeft="13px"
+			android:layout_marginTop="568px"
+			android:layout_width="159px"
+			android:layout_height="123px"
+			android:background="@drawable/common_btn_back"
+			/>
+
+</RelativeLayout>
+

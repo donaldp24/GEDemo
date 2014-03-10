@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState />
+    </option>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <target>android-15</target>
+      </config>
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/res/layout/cooktop.xml">
+        <config>
+          <device>Nexus 4</device>
+          <state>Landscape</state>
+          <theme>@android:style/Theme.Light.NoTitleBar.Fullscreen</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/res/layout/dishwasher.xml">
+        <config>
+          <device>Nexus 4</device>
+          <state>Landscape</state>
+          <theme>@android:style/Theme.Light.NoTitleBar.Fullscreen</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/res/layout/main.xml">
+        <config>
+          <device>Galaxy Nexus</device>
+          <state>Landscape</state>
+          <theme>@android:style/Theme.Light.NoTitleBar.Fullscreen</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/res/layout/refrigerator.xml">
+        <config>
+          <device>Nexus 4</device>
+          <state>Landscape</state>
+          <theme>@android:style/Theme.Light.NoTitleBar.Fullscreen</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/res/layout/video.xml">
+        <config>
+          <device>Nexus 4</device>
+          <state>Landscape</state>
+          <theme>@android:style/Theme.Light.NoTitleBar.Fullscreen</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/res/layout/walloven.xml">
+        <config>
+          <device>Nexus 4</device>
+          <state>Landscape</state>
+          <theme>@android:style/Theme.Light.NoTitleBar.Fullscreen</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46c360a2-3214-4750-b896-715455628dee" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/AppPreferences.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/BaseActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/CommonData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/CooktopActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/DishwasherActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/RefrigeratorActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/ResolutionSet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/TransformManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/VideoActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/WallovenActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/alpha.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/cooktop.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/dishwasher.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/fade.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/frame_trans_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/frame_trans_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/hold.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/left_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/left_in_alpha.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/left_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/left_out_alpha.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/refrigerator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/right_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/right_in_alpha.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/right_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/right_out_alpha.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/rotate.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/scale_alpha.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/slide_in_from_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/slide_in_from_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/slide_out_to_bottom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/slide_out_to_top.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/trans_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/trans_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/video.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/video_in.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/anim/video_out.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/walloven.xml" />
+    </list>
+    <ignored path="GEDemo.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="GEDemo" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/TransformManager.java" />
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/AppPreferences.java" />
+        <option value="$PROJECT_DIR$/res/layout/video.xml" />
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/ResolutionSet.java" />
+        <option value="$PROJECT_DIR$/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/res/layout/refrigerator.xml" />
+        <option value="$PROJECT_DIR$/res/layout/dishwasher.xml" />
+        <option value="$PROJECT_DIR$/res/layout/walloven.xml" />
+        <option value="$PROJECT_DIR$/res/layout/cooktop.xml" />
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/ScanMediaActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/RefrigeratorActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/BaseActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/DishwasherActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/WallovenActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/CooktopActivity.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/CommonData.java" />
+        <option value="$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/VideoActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1288" />
+    <option name="y" value="-264" />
+    <option name="width" value="1296" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GEDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GEDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GEDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GEDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GEDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GEDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GEDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GEDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GEDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GEDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GEDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GEDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-mdpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GEDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GEDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable-ldpi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GEDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GEDemo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="anim" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.general.mediaplayer.GEDemo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Elance\works\18_demo\GEDemo\res\layout" />
+      <recent name="D:\Elance\works\18_demo\GEDemo\res" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.GEDemo">
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GEDemo" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="GEDemo" />
+      <option name="ACTIVITY_CLASS" value="com.general.mediaplayer.GEDemo.ScanMediaActivity" />
+      <option name="MODE" value="specific_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.GEDemo" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46c360a2-3214-4750-b896-715455628dee" name="Default" comment="" />
+      <created>1394220758081</created>
+      <updated>1394220758081</updated>
+      <workItem from="1394220763156" duration="329000" />
+      <workItem from="1394221102151" duration="3445000" />
+      <workItem from="1394224925880" duration="1941000" />
+      <workItem from="1394226886685" duration="680000" />
+      <workItem from="1394228386926" duration="232000" />
+      <workItem from="1394229604202" duration="13645000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20272000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1288" y="-264" width="1296" height="1010" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.61650485" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39906102" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298122" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298122" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2641357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298122" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/res/layout/walloven.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="40" selection-start="634" selection-end="634" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="1862">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/dishwasher.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="39" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0" vertical-offset="37" max-vertical-offset="1862">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/dishwasher.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="0" selection-start="2308" selection-end="2308" vertical-scroll-proportion="0.0" vertical-offset="1099" max-vertical-offset="1862">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="16" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2394">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/refrigerator.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="41" selection-start="1216" selection-end="1216" vertical-scroll-proportion="0.0" vertical-offset="722" max-vertical-offset="2394">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="843" selection-end="844" vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="665">
+          <folding>
+            <element signature="e#469#487#0" expanded="true" />
+            <element signature="e#592#610#0" expanded="true" />
+            <element signature="e#1067#1085#0" expanded="true" />
+            <element signature="e#1368#1386#0" expanded="true" />
+            <element signature="e#1667#1685#0" expanded="true" />
+            <element signature="e#1965#1983#0" expanded="true" />
+            <element signature="e#2261#2279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/VideoActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="23" selection-start="1290" selection-end="1290" vertical-scroll-proportion="0.0" vertical-offset="665" max-vertical-offset="1615" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/BaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="44" selection-start="2407" selection-end="2407" vertical-scroll-proportion="0.0" vertical-offset="1425" max-vertical-offset="2470" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/AppPreferences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="32" selection-start="1772" selection-end="1772" vertical-scroll-proportion="0.0" vertical-offset="1007" max-vertical-offset="1406" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/video.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="14" selection-start="374" selection-end="374" vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="456">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/TransformManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="24" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="2128" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/ResolutionSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="49" selection-start="698" selection-end="698" vertical-scroll-proportion="0.0" vertical-offset="437" max-vertical-offset="3876" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/CommonData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="5" selection-start="977" selection-end="977" vertical-scroll-proportion="0.0" vertical-offset="627" max-vertical-offset="779" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/ScanMediaActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="33" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="399" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="393" selection-end="393" vertical-scroll-proportion="0.0" vertical-offset="228" max-vertical-offset="361">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/VideoActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="28" selection-start="623" selection-end="623" vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="1615" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/video.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/TransformManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="24" selection-start="564" selection-end="564" vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="2128" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/ResolutionSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="13" selection-start="466" selection-end="466" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="3838" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/CommonData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="5" selection-start="977" selection-end="977" vertical-scroll-proportion="0.0" vertical-offset="627" max-vertical-offset="779" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-ldpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/anim/fade.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="524" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/AppPreferences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="32" selection-start="1772" selection-end="1772" vertical-scroll-proportion="0.49621212" vertical-offset="614" max-vertical-offset="1406" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/video.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="14" selection-start="374" selection-end="374" vertical-scroll-proportion="0.22649007" vertical-offset="0" max-vertical-offset="755">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/ResolutionSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="49" selection-start="698" selection-end="698" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3648" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/main.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="16" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="19" max-vertical-offset="2394">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/refrigerator.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="41" selection-start="2226" selection-end="2226" vertical-scroll-proportion="0.45916116" vertical-offset="1217" max-vertical-offset="2185">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/dishwasher.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="31" selection-start="1500" selection-end="1500" vertical-scroll-proportion="-4.4" vertical-offset="711" max-vertical-offset="1862">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/cooktop.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="4" selection-start="520" selection-end="520" vertical-scroll-proportion="-5.16" vertical-offset="27" max-vertical-offset="1843">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/walloven.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="40" selection-start="220" selection-end="220" vertical-scroll-proportion="-1.52" vertical-offset="0" max-vertical-offset="2014">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/DishwasherActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="8" selection-start="1509" selection-end="1788" vertical-scroll-proportion="0.0" vertical-offset="449" max-vertical-offset="1254">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#514#901#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#1014#1195#0" expanded="true" />
+            <element signature="e#1184#1185#0" expanded="true" />
+            <element signature="e#1314#1497#0" expanded="true" />
+            <element signature="e#1486#1487#0" expanded="true" />
+            <element signature="e#1607#1787#0" expanded="true" />
+            <element signature="e#1776#1777#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/WallovenActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="8" selection-start="1803" selection-end="2089" vertical-scroll-proportion="0.0" vertical-offset="620" max-vertical-offset="1425">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#510#895#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#1011#1191#0" expanded="true" />
+            <element signature="e#1180#1181#0" expanded="true" />
+            <element signature="e#1304#1483#0" expanded="true" />
+            <element signature="e#1472#1473#0" expanded="true" />
+            <element signature="e#1608#1791#0" expanded="true" />
+            <element signature="e#1780#1781#0" expanded="true" />
+            <element signature="e#1907#2087#0" expanded="true" />
+            <element signature="e#2076#2077#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/CooktopActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="13" selection-start="1739" selection-end="1739" vertical-scroll-proportion="0.95412844" vertical-offset="392" max-vertical-offset="1273">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#508#892#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#996#1171#0" expanded="true" />
+            <element signature="e#1160#1161#0" expanded="true" />
+            <element signature="e#1281#1458#0" expanded="true" />
+            <element signature="e#1447#1448#0" expanded="true" />
+            <element signature="e#1571#1749#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/BaseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="9" selection-start="1097" selection-end="1097" vertical-scroll-proportion="0.0" vertical-offset="291" max-vertical-offset="2394">
+          <folding>
+            <element signature="e#698#1103#0" expanded="true" />
+            <element signature="e#1142#1554#0" expanded="true" />
+            <element signature="e#1547#1548#0" expanded="true" />
+            <element signature="e#1904#3112#0" expanded="true" />
+            <element signature="e#3101#3102#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/RefrigeratorActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="44" selection-start="2632" selection-end="2632" vertical-scroll-proportion="0.0" vertical-offset="977" max-vertical-offset="1501">
+          <folding>
+            <element signature="e#547#936#0" expanded="true" />
+            <element signature="e#925#926#0" expanded="true" />
+            <element signature="e#1049#1232#0" expanded="true" />
+            <element signature="e#1221#1222#0" expanded="true" />
+            <element signature="e#1348#1532#0" expanded="true" />
+            <element signature="e#1521#1522#0" expanded="true" />
+            <element signature="e#1645#1828#0" expanded="true" />
+            <element signature="e#1817#1818#0" expanded="true" />
+            <element signature="e#1947#2132#0" expanded="true" />
+            <element signature="e#2121#2122#0" expanded="true" />
+            <element signature="e#2245#2429#0" expanded="true" />
+            <element signature="e#2418#2419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Tools/Android_Development/android-sdk_r12-windows/android-sdk-windows/sources/android-15/android/widget/VideoView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="229" column="25" selection-start="8661" selection-end="8661" vertical-scroll-proportion="6.1354837" vertical-offset="833" max-vertical-offset="11210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/VideoActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="47" selection-start="4039" selection-end="4039" vertical-scroll-proportion="0.0" vertical-offset="1560" max-vertical-offset="2185">
+          <folding>
+            <element signature="e#1140#2177#0" expanded="true" />
+            <element signature="e#2166#2167#0" expanded="true" />
+            <element signature="e#2221#2396#0" expanded="true" />
+            <element signature="e#2385#2386#0" expanded="true" />
+            <element signature="e#2437#2992#0" expanded="true" />
+            <element signature="e#2981#2982#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="81" selection-start="712" selection-end="722" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1292">
+          <folding>
+            <element signature="e#469#487#0" expanded="true" />
+            <element signature="e#592#610#0" expanded="true" />
+            <element signature="e#1067#1085#0" expanded="true" />
+            <element signature="e#1368#1386#0" expanded="true" />
+            <element signature="e#1667#1685#0" expanded="true" />
+            <element signature="e#1965#1983#0" expanded="true" />
+            <element signature="e#2261#2279#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/CommonData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="40" selection-start="789" selection-end="789" vertical-scroll-proportion="0.0" vertical-offset="301" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/ScanMediaActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="73" selection-start="1423" selection-end="1423" vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="1121">
+          <folding>
+            <element signature="e#1124#1519#0" expanded="true" />
+            <element signature="e#1508#1509#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/general/mediaplayer/GEDemo/TransformManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="41" selection-start="539" selection-end="539" vertical-scroll-proportion="0.59266055" vertical-offset="0" max-vertical-offset="2128">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android|GEDemo</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

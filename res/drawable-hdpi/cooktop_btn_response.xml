@@ -1,0 +1,6 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true" android:state_pressed="false" android:drawable="@drawable/cooktop_btn_response_normal" />
+    <item android:state_focused="true" android:state_pressed="true" android:drawable="@drawable/cooktop_btn_response_down" />
+    <item android:state_focused="false" android:state_pressed="true" android:drawable="@drawable/cooktop_btn_response_down" />
+    <item android:drawable="@drawable/cooktop_btn_response_normal" />
+</selector>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  android:id="@+id/layout_main"
+			  android:orientation="vertical"
+			  android:layout_width="1280px"
+			  android:layout_height="720px"
+			  android:background="@drawable/common_bg"
+		>
+	<ImageView
+			android:layout_marginLeft="122px"
+			android:layout_marginTop="363px"
+			android:layout_width="1013px"
+			android:layout_height="326px"
+			android:background="@drawable/welcome_focusbg"
+			/>
+	<ImageView
+			android:layout_marginLeft="66px"
+			android:layout_marginTop="48px"
+			android:layout_width="237px"
+			android:layout_height="115px"
+			android:background="@drawable/welcome_mark"
+			/>
+	<ImageView
+			android:layout_marginLeft="849px"
+			android:layout_marginTop="38px"
+			android:layout_width="124px"
+			android:layout_height="125px"
+			android:background="@drawable/welcome_appmark"
+			/>
+	<ImageView
+			android:layout_marginLeft="1006px"
+			android:layout_marginTop="82px"
+			android:layout_width="194px"
+			android:layout_height="46px"
+			android:background="@drawable/welcome_application"
+			/>
+	<ImageView
+			android:layout_marginLeft="352px"
+			android:layout_marginTop="188px"
+			android:layout_width="580px"
+			android:layout_height="109px"
+			android:background="@drawable/welcome_profile"
+			/>
+
+	<!-- buttons -->
+	<Button
+			android:id="@+id/btn_refrigerator"
+			android:layout_marginLeft="166px"
+			android:layout_marginTop="362px"
+			android:layout_width="192px"
+			android:layout_height="169px"
+			android:background="@drawable/welcome_btn_refridge"
+			/>
+	<ImageView
+			android:layout_marginLeft="171px"
+			android:layout_marginTop="528px"
+			android:layout_width="181px"
+			android:layout_height="45px"
+			android:background="@drawable/welcome_refregerator_exp"
+			/>
+
+	<Button
+			android:id="@+id/btn_dishwasher"
+			android:layout_marginLeft="422px"
+			android:layout_marginTop="362px"
+			android:layout_width="192px"
+			android:layout_height="169px"
+			android:background="@drawable/welcome_btn_dishwasher"
+			/>
+	<ImageView
+			android:layout_marginLeft="430px"
+			android:layout_marginTop="528px"
+			android:layout_width="181px"
+			android:layout_height="45px"
+			android:background="@drawable/welcome_dishwashers_exp"
+			/>
+
+	<Button
+			android:id="@+id/btn_walloven"
+			android:layout_marginLeft="663px"
+			android:layout_marginTop="362px"
+			android:layout_width="192px"
+			android:layout_height="169px"
+			android:background="@drawable/welcome_btn_walloven"
+			/>
+	<ImageView
+			android:layout_marginLeft="670px"
+			android:layout_marginTop="528px"
+			android:layout_width="181px"
+			android:layout_height="45px"
+			android:background="@drawable/welcome_wallovens_exp"
+			/>
+
+	<Button
+			android:id="@+id/btn_cooktop"
+			android:layout_marginLeft="909px"
+			android:layout_marginTop="362px"
+			android:layout_width="192px"
+			android:layout_height="169px"
+			android:background="@drawable/welcome_btn_cooltop"
+			/>
+	<ImageView
+			android:layout_marginLeft="910px"
+			android:layout_marginTop="528px"
+			android:layout_width="181px"
+			android:layout_height="45px"
+			android:background="@drawable/welcome_cooktops_exp"
+			/>
+
+
+	<ImageView
+			android:layout_marginLeft="400px"
+			android:layout_marginTop="626px"
+			android:layout_width="485px"
+			android:layout_height="49px"
+			android:background="@drawable/welcome_question"
+			/>
+
+</RelativeLayout>
+

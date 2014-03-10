@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  android:id="@+id/layout_dishwasher"
+			  android:orientation="vertical"
+			  android:layout_width="1280px"
+			  android:layout_height="720px"
+			  android:background="@drawable/common_bg"
+		>
+	<ImageView
+			android:layout_marginLeft="33px"
+			android:layout_marginTop="362px"
+			android:layout_width="1213px"
+			android:layout_height="329px"
+			android:background="@drawable/refrigerator_focusbg"
+			/>
+	<ImageView
+			android:layout_marginLeft="66px"
+			android:layout_marginTop="48px"
+			android:layout_width="237px"
+			android:layout_height="115px"
+			android:background="@drawable/welcome_mark"
+			/>
+	<ImageView
+			android:layout_marginLeft="849px"
+			android:layout_marginTop="38px"
+			android:layout_width="124px"
+			android:layout_height="125px"
+			android:background="@drawable/welcome_appmark"
+			/>
+	<ImageView
+			android:layout_marginLeft="1006px"
+			android:layout_marginTop="82px"
+			android:layout_width="194px"
+			android:layout_height="46px"
+			android:background="@drawable/welcome_application"
+			/>
+	<ImageView
+			android:layout_marginLeft="337px"
+			android:layout_marginTop="214px"
+			android:layout_width="577px"
+			android:layout_height="84px"
+			android:background="@drawable/dishwasher_title"
+			/>
+
+	<!-- buttons -->
+	<Button
+			android:id="@+id/btn_advanced"
+			android:layout_marginLeft="294px"
+			android:layout_marginTop="385px"
+			android:layout_width="192px"
+			android:layout_height="169px"
+			android:background="@drawable/dishwasher_btn_advanced"
+			/>
+
+	<Button
+			android:id="@+id/btn_bottlewash"
+			android:layout_marginLeft="531px"
+			android:layout_marginTop="385px"
+			android:layout_width="192px"
+			android:layout_height="169px"
+			android:background="@drawable/dishwasher_btn_bottlewash"
+			/>
+
+	<Button
+			android:id="@+id/btn_loading"
+			android:layout_marginLeft="768px"
+			android:layout_marginTop="385px"
+			android:layout_width="192px"
+			android:layout_height="169px"
+			android:background="@drawable/dishwasher_btn_loading"
+			/>
+
+
+	<ImageView
+			android:layout_marginLeft="275px"
+			android:layout_marginTop="547px"
+			android:layout_width="697px"
+			android:layout_height="66px"
+			android:background="@drawable/dishwasher_exps"
+			/>
+
+	<Button
+			android:id="@+id/btn_back"
+			android:layout_marginLeft="13px"
+			android:layout_marginTop="568px"
+			android:layout_width="159px"
+			android:layout_height="123px"
+			android:background="@drawable/common_btn_back"
+			/>
+
+</RelativeLayout>
+
