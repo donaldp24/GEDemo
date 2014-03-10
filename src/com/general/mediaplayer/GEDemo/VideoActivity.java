@@ -80,7 +80,11 @@ public class VideoActivity extends Activity {
                     finish();
                 }
                 else
+                {
+
                     finish();
+                    overridePendingTransition(TransformManager.GetVideoInAnim(), TransformManager.GetVideoOutAnim());
+                }
                 return true;
             }
         });
